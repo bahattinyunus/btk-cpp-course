@@ -1,3 +1,11 @@
+![BTK C++ Banner](assets/banner.png)
+
+<div align="center">
+  <img src="assets/badges/cpp.svg" alt="C++" />
+  <img src="assets/badges/btk.svg" alt="BTK Akademi" />
+  <img src="assets/badges/license.svg" alt="License" />
+</div>
+
 # 💻 BTK Akademi - C++ Eğitim Projeleri
 
 Merhaba! Bu repo, [BTK Akademi](https://www.btkakademi.gov.tr/) üzerinden aldığım **C++ ile Programlamaya Giriş** eğitiminde öğrendiklerimi pratiğe dökmek için hazırladığım tüm kodları ve mini projeleri içermektedir. 👨‍💻
